@@ -24,7 +24,7 @@ A curated and **opinionated** list of resources for Full Stack Engineers, with t
 
 ## General
 
- * [How to become a full stacak engineer](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead) - Hackernoon
+ * [How to become a Full Stack Engineer](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead) - (Hackernoon)
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
  * [Three Golden Rules to Finding a CTO](https://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
  * [Becoming a CTO](https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto)
